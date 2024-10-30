@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonMedirConsumo" type="id" />
+    <item name="buttonMedirTemperatura" type="id" />
+    <item name="textViewInicio" type="id" />
+    <item name="buttonAlertas" type="id" />
+    <item name="buttonControlAlertas" type="id" />
+    <item name="editTextTemperatura" type="id" />
+</resources>
